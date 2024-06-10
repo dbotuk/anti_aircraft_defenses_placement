@@ -1,4 +1,4 @@
-# Anti-Aircraft Defenses Optimal Placement
+# Air-Defense Systems Optimal Placement
 This is my final project of "Introduction to Data Science" course, the main goal of which is to solve optimization problem based on simulated data.
 
 ## Overview
